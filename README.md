@@ -35,6 +35,3 @@ KQC-backups/           # Auto backups
 ### Fabrication
 - Generate Gerbers from the PCB Editor (File → Fabrication Outputs → Gerbers).
 - The `rp2040_pmod.zip` contains a previous export.
-
-## 📄 License
-No license specified. (Hardware design — consider adding a hardware license such as CERN-OHL.)
